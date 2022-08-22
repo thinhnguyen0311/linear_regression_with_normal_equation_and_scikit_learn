@@ -1,3 +1,5 @@
+## Linear Regression model using Scikit-Learn library.
+
 This pet-project is to build a Linear Regression model using Scikit-Learn library.
 
 The data from the Olympics is used to implement our algorithm.
